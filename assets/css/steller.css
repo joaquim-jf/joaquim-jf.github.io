@@ -67,7 +67,7 @@ body {
   line-height: 1.5;
   color: #495057;
   text-align: left;
-  background-color: #fff;
+  background-color: #ffffff;
 }
 
 [tabindex="-1"]:focus {
@@ -4993,7 +4993,7 @@ input[type="button"].btn-block {
 }
 
 .navbar-dark .navbar-brand {
-  color: #fff;
+  color: #ffffff;
 }
 
 .navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
@@ -11238,7 +11238,7 @@ pre {
   max-width: 1000px;
   margin: 0 auto 150px;
   z-index: 99;
-  background: ##C2E0F2;
+  background: #C2E0F2;
 }
 
 .contact .form {
@@ -11634,7 +11634,7 @@ pre {
 }
 
 .section:nth-child(even) {
-  background: white;
+  background: #C2E0F2;
 }
 
 .section.bg-white {
