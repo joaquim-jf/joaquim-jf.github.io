@@ -11634,7 +11634,7 @@ pre {
 }
 
 .section:nth-child(even) {
-  background: #C2E0F2;
+  background: white;
 }
 
 .section.bg-white {
