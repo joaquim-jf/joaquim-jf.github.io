@@ -11238,7 +11238,7 @@ pre {
   max-width: 1000px;
   margin: 0 auto 150px;
   z-index: 99;
-  background: #fff;
+  background: ##C2E0F2;
 }
 
 .contact .form {
@@ -11634,7 +11634,7 @@ pre {
 }
 
 .section:nth-child(even) {
-  background: white;
+  background: #C2E0F2;
 }
 
 .section.bg-white {
